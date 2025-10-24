@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@theme {
+  --color-stripe: #4945ff;
+  --color-nav-bg: #0d0d0d;
+}
